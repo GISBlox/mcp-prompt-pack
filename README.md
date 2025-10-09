@@ -18,3 +18,10 @@ This repository contains reusable GISBlox MCP Server prompt files.
 
 4. In Copilot Chat, open Add → Prompts → MCP Prompts. You’ll see all shared prompts listed.
 
+## Contents
+
+
+- `Postal codes`: Common ways to work with Dutch postal codes.
+- `Geometry conversion`: Converts WKT to GeoJSON formats.
+- `Coordinate projection`: Used for coordinate projection tasks.
+

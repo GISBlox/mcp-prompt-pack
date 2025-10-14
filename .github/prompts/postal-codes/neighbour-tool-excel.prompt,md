@@ -20,9 +20,9 @@ Retrieve the following fields for each postal code:
 - Postal Code
 - Gemeente (municipality)
 - Wijk (district)
-- Buurt (neighborhood)
+- Buurt (neighborhood) - include only in case of 6 digit postal codes
 
 After you have the data, either call the `VisualizePostalCode4` or `VisualizePostalCode6` tool to generate a geojson.io URL for each postal code. 
 Make sure to wait until the creation of each URL is complete, before creating the next one. 
 
-Finally, compile all the data into a CSV format that can be opened in Excel, including the new URL field.
+Finally, compile all the data into a CSV file that can be opened in Excel, including the new URL field. Use a semi-colon (;) as the delimiter.

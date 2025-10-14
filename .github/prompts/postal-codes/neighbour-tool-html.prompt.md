@@ -20,7 +20,7 @@ Retrieve the following fields for each postal code and put them in a markdown ta
 - Postal Code
 - Gemeente (municipality)
 - Wijk (district)
-- Buurt (neighborhood)
+- Buurt (neighborhood) - include only in case of 6 digit postal codes
 
 After you have the data, either call the `VisualizePostalCode4` or `VisualizePostalCode6` tool to generate a geojson.io URL for each postal code. 
 Make sure to wait until the creation of each URL is complete, before creating the next one. Do not add a new column for the URL; instead, embed the link in the Postal Code field.

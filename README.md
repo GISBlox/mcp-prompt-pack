@@ -1,8 +1,8 @@
-﻿# MCP Server Prompt Pack
+﻿# GISBlox MCP Server Prompt Pack
 
-This repository contains reusable GISBlox MCP Server prompt files.
+This repository contains reusable [GISBlox MCP Server](https://github.com/gisblox/mcp-server) prompt files.
 
-## Installation
+## 📚 Installation
 
 1. Clone this repo:
    ```bash
@@ -18,10 +18,10 @@ This repository contains reusable GISBlox MCP Server prompt files.
 
 4. In Copilot Chat, open Add → Prompts → MCP Prompts. You’ll see all shared prompts listed.
 
-## Contents
+## 📖 Contents
 
 
 - `Postal codes`: Common ways to work with Dutch postal codes.
-- `Geometry conversion`: Converts WKT to GeoJSON formats.
+- `Geometry conversion`: Converts GeoJSON to WKT or WKB and vice versa.
 - `Coordinate projection`: Used for coordinate projection tasks.
 

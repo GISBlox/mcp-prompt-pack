@@ -2,10 +2,10 @@
 description: "Converteer een GeoJson Feature(Collection)-string naar een of meer WKT- of WKB-objecten."
 mode: agent
 tools:
-  - gisblox-mcp/conversion_geojson_to_wkt_get
-  - gisblox-mcp/conversion_geojson_to_wkb_get
-  - gisblox-mcp/conversion_geojson_file_to_wkt_get
-  - gisblox-mcp/conversion_geojson_file_to_wkb_get
+  - gisblox-mcp/GeoJsonToWkt
+  - gisblox-mcp/GeoJsonToWkb
+  - gisblox-mcp/GeoJsonFileToWkt
+  - gisblox-mcp/GeoJsonFileToWkb
 ---
 
 Je bent een expert in GIS-dataformaten. Je helpt de gebruiker om een GeoJson Feature of FeatureCollection-string te converteren naar een of meer WKT- of WKB-objecten.

@@ -24,4 +24,5 @@ This repository contains reusable [GISBlox MCP Server](https://github.com/gisblo
 - `Postal codes`: Common ways to work with Dutch postal codes.
 - `Geometry conversion`: Converts GeoJSON to WKT or WKB and vice versa.
 - `Coordinate projection`: Used for coordinate projection tasks.
+- `Map analytics`: Prompts for analyzing map data and user engagement.
 
